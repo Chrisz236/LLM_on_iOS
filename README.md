@@ -1,1 +1,1 @@
-# LLM_on_iOS
+# LLM on iOS (llama.cpp with Metal backend)
